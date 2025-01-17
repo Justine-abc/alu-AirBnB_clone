@@ -1,5 +1,4 @@
-
-AirBnB Clone
+## AirBnB Clone
 This project is a simplified clone of the AirBnB web application. It includes a command-line interface (CLI) for managing objects, a storage engine for persisting data, and a web static front-end.
 
 ## Table of content
@@ -20,7 +19,8 @@ It includes:
 .Unit tests to ensure code quality.
 .A web static front-end to display data.
 
-## FeaturCommand Interpreter: Create, read, update, and delete objects via a command-line interface.
+## Feature Command Interpreter: 
+.Create, read, update, and delete objects via a command-line interface.
 
 .Storage Engine: Serialize and deserialize objects to and from JSON files.
 .Unit Tests: Comprehensive tests to ensure the reliability of the codebase.
@@ -31,7 +31,7 @@ It includes:
 To get started with the AirBnB Clone project, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/airbnb-clone.git
+git clone https://github.com/your-username/airbnb-clone.git,
 cd airbnb-clone
 2. Enjoy the CLI clone of AirBnB!.
    
